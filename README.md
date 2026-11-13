@@ -7,11 +7,11 @@
 ---
 
 ### Sobre mim
-- 🎓 Estudante do 4º período de Ciência da Computação na Uniube.
-- ⚙️ Apaixonado por entender como a infraestrutura e os sistemas funcionam "por baixo dos panos".
-- 🤖 Criador do **J.A.R.V.I.S.**, um assistente virtual local integrado com IA (Ollama) no Linux.
-- 🎲 Fora das telas: Mestre e jogador assíduo de RPG de mesa (o que me ajuda muito na lógica e resolução de problemas!).
-- 🌱 Atualmente à procura da minha primeira oportunidade como estagiário/trainee em Desenvolvimento, Automação ou Segurança.
+-  Estudante do 4º período de Ciência da Computação na Uniube.
+-  Apaixonado por entender como a infraestrutura e os sistemas funcionam "por baixo dos panos".
+-  Criador do **J.A.R.V.I.S.**, um assistente virtual local integrado com IA (Ollama) no Linux.
+-  Fora das telas: Mestre e jogador assíduo de RPG de mesa (o que me ajuda muito na lógica e resolução de problemas!).
+-  Atualmente à procura da minha primeira oportunidade como estagiário/trainee em Desenvolvimento, Automação ou Segurança.
 
 ---
 

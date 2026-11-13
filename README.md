@@ -30,8 +30,3 @@
 **Bancos de Dados & Design:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-[![Estatísticas do Juan](https://github-readme-stats.vercel.app/api?username=jabaratella-collab&show_icons=true&theme=dark&hide_border=true)](https://github.com/jabaratella-collab)

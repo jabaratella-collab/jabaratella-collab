@@ -1,4 +1,4 @@
-# Olá, eu sou o Juan Artiaga Baratella! 👨‍💻
+# Olá, eu sou o Juan Artiaga Baratella! 
 
 **Estudante de Ciência da Computação | Foco em Back-end, Automação & Cibersegurança**
 
@@ -13,16 +13,16 @@
 
 ---
 
-### 🕵️ Sobre mim
-- 🎓 Estudante do 4º período de Ciência da Computação na Uniube.
-- ⚙️ Apaixonado por entender como a infraestrutura e os sistemas funcionam "por baixo dos panos".
-- 🤖 Criador do **J.A.R.V.I.S.**, um assistente virtual local integrado com IA (Ollama) no Linux.
-- 🎲 Fora das telas: Mestre e jogador assíduo de RPG de mesa (o que me ajuda muito na lógica e resolução de problemas!).
-- 🌱 Atualmente à procura da minha primeira oportunidade como estagiário/trainee em Desenvolvimento, Automação ou Segurança.
+###  Sobre mim
+-  Estudante do 4º período de Ciência da Computação na Uniube.
+-  Apaixonado por entender como a infraestrutura e os sistemas funcionam "por baixo dos panos".
+-  Criador do **J.A.R.V.I.S.**, um assistente virtual local integrado com IA (Ollama) no Linux.
+-  Fora das telas: Mestre e jogador assíduo de RPG de mesa (o que me ajuda muito na lógica e resolução de problemas!).
+-  Atualmente à procura da minha primeira oportunidade como estagiário/trainee em Desenvolvimento, Automação ou Segurança.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 **Back-end & Lógica:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

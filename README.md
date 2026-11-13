@@ -31,7 +31,7 @@
 
 **Infraestrutura & SO:**
 ![Linux](https://img.shields.io/badge/LINUX-BÁSICO-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/UBUNTU-BÁSICO-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-INTERMEDIÁRIO-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-BÁSICO-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 **Bancos de Dados & Design:**

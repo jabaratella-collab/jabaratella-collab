@@ -1,21 +1,28 @@
-## Hi there 👋
-
-# Olá, eu sou o Juan Artiaga Baratella! 
+# Olá, eu sou o Juan Artiaga Baratella! 👨‍💻
 
 **Estudante de Ciência da Computação | Foco em Back-end, Automação & Cibersegurança**
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-baratella-59652b370" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:jabaratella@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 ---
 
-### Sobre mim
--  Estudante do 4º período de Ciência da Computação na Uniube.
--  Apaixonado por entender como a infraestrutura e os sistemas funcionam "por baixo dos panos".
--  Criador do **J.A.R.V.I.S.**, um assistente virtual local integrado com IA (Ollama) no Linux.
--  Fora das telas: Mestre e jogador assíduo de RPG de mesa (o que me ajuda muito na lógica e resolução de problemas!).
--  Atualmente à procura da minha primeira oportunidade como estagiário/trainee em Desenvolvimento, Automação ou Segurança.
+### 🕵️ Sobre mim
+- 🎓 Estudante do 4º período de Ciência da Computação na Uniube.
+- ⚙️ Apaixonado por entender como a infraestrutura e os sistemas funcionam "por baixo dos panos".
+- 🤖 Criador do **J.A.R.V.I.S.**, um assistente virtual local integrado com IA (Ollama) no Linux.
+- 🎲 Fora das telas: Mestre e jogador assíduo de RPG de mesa (o que me ajuda muito na lógica e resolução de problemas!).
+- 🌱 Atualmente à procura da minha primeira oportunidade como estagiário/trainee em Desenvolvimento, Automação ou Segurança.
 
 ---
 
-### Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 **Back-end & Lógica:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,5 +40,8 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do Juan](https://github-readme-stats.vercel.app/api?username=jabaratella-collab&show_icons=true&theme=dark&hide_border=true)
+### 🔥 Atividade Recente
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabaratella-collab&theme=dark&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jabaratella-collab&theme=default&hide_border=true">
+</picture>

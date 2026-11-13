@@ -45,3 +45,11 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabaratella-collab&theme=dark&hide_border=true">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jabaratella-collab&theme=default&hide_border=true">
 </picture>
+
+---
+
+<br>
+<div align="center">
+  <img src="tiosam.png" alt="Tio Sam Apontando" width="200">
+  <h3>Espero você para observar meus projetos! 🫵</h3>
+</div>

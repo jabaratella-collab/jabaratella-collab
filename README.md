@@ -34,4 +34,4 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-[![Estatísticas do Juan](https://github-readme-stats.vercel.app/api?username=jabaratella-collab&show_icons=true&theme=dark&hide_border=true)](https://github.com/jabaratella-collab)
+![Estatísticas do Juan](https://github-readme-stats.vercel.app/api?username=jabaratella-collab&show_icons=true&theme=dark&hide_border=true)

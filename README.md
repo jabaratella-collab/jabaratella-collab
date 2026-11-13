@@ -53,3 +53,5 @@
   <img src="tiosam.png" alt="Tio Sam Apontando" width="200">
   <h3>Espero você para observar meus projetos! 🫵</h3>
 </div>
+
+---

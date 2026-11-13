@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Níveis de Domínio
+### Tecnologias & Níveis de Domínio
 
 **Back-end & Lógica:**
 ![Python](https://img.shields.io/badge/PYTHON-INTERMEDIÁRIO-3776AB?style=for-the-badge&logo=python&logoColor=white)

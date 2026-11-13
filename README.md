@@ -40,7 +40,7 @@
 
 ---
 
-### 🔥 Atividade Recente
+### Atividade Recente
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jabaratella-collab&theme=dark&hide_border=true">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jabaratella-collab&theme=default&hide_border=true">

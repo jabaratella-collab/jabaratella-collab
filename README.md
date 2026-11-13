@@ -22,21 +22,21 @@
 
 ---
 
-###  Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Níveis de Domínio
 
 **Back-end & Lógica:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-INTERMEDIÁRIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-INTERMEDIÁRIO-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-BÁSICO-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Infraestrutura & SO:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-BÁSICO-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-BÁSICO-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-BÁSICO-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 **Bancos de Dados & Design:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-INTERMEDIÁRIO-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-BÁSICO-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
